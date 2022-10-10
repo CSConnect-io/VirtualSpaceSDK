@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CSConnectFramework
 import ARKit
 @_exported import CSConnectFramework
@@ -16,12 +16,19 @@ import _Concurrency
 extension UIKit.UINavigationController {
   @_Concurrency.MainActor(unsafe) public func openFurnitureViewController()
 }
+extension Swift.Array where Element : Swift.Hashable {
+  public func uniqued() -> [Element]
+}
 @_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
 extension CSConnectFramework.CoreFurniture {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreFurniture>
+  @objc @NSManaged dynamic public var category: Swift.String? {
+    @objc get
+    @objc set
+  }
   @objc @NSManaged dynamic public var id: Swift.String? {
     @objc get
     @objc set
@@ -31,6 +38,14 @@ extension CSConnectFramework.CoreFurniture {
     @objc set
   }
   @objc @NSManaged dynamic public var name: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var serialNumber: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var subcategory: Swift.String? {
     @objc get
     @objc set
   }

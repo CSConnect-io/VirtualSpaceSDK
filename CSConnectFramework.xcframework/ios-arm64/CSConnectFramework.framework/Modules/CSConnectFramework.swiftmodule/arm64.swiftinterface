@@ -10,17 +10,25 @@ import RealityKit
 import Swift
 import UIKit
 import _Concurrency
-@_hasMissingDesignatedInitializers public class FurnitureSDK {
+@_inheritsConvenienceInitializers @objc(CoreMedia) public class CoreMedia : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
-extension UIKit.UINavigationController {
-  @_Concurrency.MainActor(unsafe) public func openFurnitureViewController()
+extension CSConnectFramework.CoreMedia {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreMedia>
+  @objc @NSManaged dynamic public var data: Foundation.Data? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var url: Swift.String? {
+    @objc get
+    @objc set
+  }
 }
-extension Swift.Array where Element : Swift.Hashable {
-  public func uniqued() -> [Element]
+extension CSConnectFramework.CoreMedia : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
 }
-@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+@_hasMissingDesignatedInitializers public class FurnitureSDK {
   @objc deinit
 }
 extension CSConnectFramework.CoreFurniture {
@@ -57,21 +65,13 @@ extension CSConnectFramework.CoreFurniture {
 extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
   public typealias ID = Swift.String?
 }
-@_inheritsConvenienceInitializers @objc(CoreMedia) public class CoreMedia : CoreData.NSManagedObject {
+@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
-extension CSConnectFramework.CoreMedia {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreMedia>
-  @objc @NSManaged dynamic public var data: Foundation.Data? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var url: Swift.String? {
-    @objc get
-    @objc set
-  }
+extension UIKit.UINavigationController {
+  @_Concurrency.MainActor(unsafe) public func openFurnitureViewController()
 }
-extension CSConnectFramework.CoreMedia : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
+extension Swift.Array where Element : Swift.Hashable {
+  public func uniqued() -> [Element]
 }

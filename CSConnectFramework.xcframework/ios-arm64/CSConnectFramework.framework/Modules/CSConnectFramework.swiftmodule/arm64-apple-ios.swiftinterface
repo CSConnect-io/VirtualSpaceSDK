@@ -70,7 +70,7 @@ extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
   @objc deinit
 }
 extension UIKit.UINavigationController {
-  @_Concurrency.MainActor(unsafe) public func openFurnitureViewController()
+  @_Concurrency.MainActor(unsafe) public func openVirtualSpaceViewController()
 }
 extension Swift.Array where Element : Swift.Hashable {
   public func uniqued() -> [Element]

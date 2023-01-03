@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "ARFurnitureSDK",
+    name: "VirtualSpaceSDK",
     products: [
         .library(
-            name: "ARFurnitureSDK",
-            targets: ["ARFurnitureSDK"]),
+            name: "VirtualSpaceSDK",
+            targets: ["VirtualSpaceSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "ARFurnitureSDK",
+        .binaryTarget(name: "VirtualSpaceSDK",
                       path: "CSConnectFramework.xcframework"),
     ]
 )

@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<data>
-		T+GzzMX7V7I+4Kjr6loI0BqLT5k=
+		ewQIL4xrcEGm8WX3DTLSnDJg1fo=
 		</data>
 		<key>Headers/CSConnectFramework.h</key>
 		<data>
@@ -62,31 +62,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GHpIxw1mB32o4GpZFkV3pBBzHG4=
+		k+ydkWl8FBQ+Pmt4hs9+ZAOpPxQ=
 		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		svERa6CPLaeVBH0+T3W0SoaZ3/Y=
+		sbZL6uK9eCOSZTA1jLVEMOhiul8=
 		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MGPK3pDtRRKg99PwAnmdwQm8KE8=
+		xJ5QQKtCYDrOUmJkbB5WfLtXbKA=
 		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cdqdGxH+bw9JxD6/vniJH7OCKE4=
+		muojSaZyPW9i+K4sM0EQB8bnRuk=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		svERa6CPLaeVBH0+T3W0SoaZ3/Y=
+		sbZL6uK9eCOSZTA1jLVEMOhiul8=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		MGPK3pDtRRKg99PwAnmdwQm8KE8=
+		xJ5QQKtCYDrOUmJkbB5WfLtXbKA=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		cdqdGxH+bw9JxD6/vniJH7OCKE4=
+		muojSaZyPW9i+K4sM0EQB8bnRuk=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		nfXMMxzOexUgwIKX98lOyBi9E8E=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		KfMnXw2dhTtCVLtGPX/HQkQj2Bw=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		cUL62sT1XX3P8C3FKgrYvgTlL0I=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		nfXMMxzOexUgwIKX98lOyBi9E8E=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		KfMnXw2dhTtCVLtGPX/HQkQj2Bw=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		cUL62sT1XX3P8C3FKgrYvgTlL0I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -199,7 +223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UYon4mbrThBkdmsvdCWRNuN+IpV6ga150D+zFxZfy7M=
+			vxoBN7TQT+izjZ41FITlkSwfbIZ3M50vaWtrSj2jEPM=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework.h</key>
@@ -209,46 +233,88 @@
 			OyhLEJjRhM1hxeRByqvj+tw3FSWleNLojnk0KDojwEA=
 			</data>
 		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+K+MJkkof8g1xGywl3/zsM+yCY15mKN2XZCdnurvsTg=
+			kXAuqQ8C7NsE0aObyjE+7NlJ+SVmXf0UFCb1OCPJEl4=
 			</data>
 		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aKTJk67Vvv6hnc59vqsIXzxG9epmMR8dF1KM1mBpSp8=
+			K0rDjybxncvFvIaiJl4wHIbXHLfMcgGC7I2G1XUp1S4=
 			</data>
 		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MY14z20Rkd8wd+1WvKkE+UA4FXAO123xRNxk/Xt1Gwc=
+			2Q3iOE5S07MMNXsMAgSqh2H67ciBz09iHkh5burJm5Q=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+K+MJkkof8g1xGywl3/zsM+yCY15mKN2XZCdnurvsTg=
+			kXAuqQ8C7NsE0aObyjE+7NlJ+SVmXf0UFCb1OCPJEl4=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aKTJk67Vvv6hnc59vqsIXzxG9epmMR8dF1KM1mBpSp8=
+			K0rDjybxncvFvIaiJl4wHIbXHLfMcgGC7I2G1XUp1S4=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MY14z20Rkd8wd+1WvKkE+UA4FXAO123xRNxk/Xt1Gwc=
+			2Q3iOE5S07MMNXsMAgSqh2H67ciBz09iHkh5burJm5Q=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JN7sMAT1DEvxuORHd1TCVsxUKURT7qgGhy6tkMpT/9w=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UkHaa3N5U0bR64YQxTNBcIuissBrg4yEUzHDdkl63Ts=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tqgugAFE7goYA+pH38A0LFJ6WErLm0dEauo9fDIVbMc=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JN7sMAT1DEvxuORHd1TCVsxUKURT7qgGhy6tkMpT/9w=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UkHaa3N5U0bR64YQxTNBcIuissBrg4yEUzHDdkl63Ts=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tqgugAFE7goYA+pH38A0LFJ6WErLm0dEauo9fDIVbMc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

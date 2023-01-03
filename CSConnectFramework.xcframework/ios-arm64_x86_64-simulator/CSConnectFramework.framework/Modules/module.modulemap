@@ -1,0 +1,11 @@
+framework module CSConnectFramework {
+  umbrella header "CSConnectFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CSConnectFramework.Swift {
+    header "CSConnectFramework-Swift.h"
+    requires objc
+}

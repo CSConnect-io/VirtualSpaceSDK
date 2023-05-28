@@ -4,11 +4,7 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>ARFurniture.storyboardc/ARFurniture.nib/objects-14.0+.nib</key>
-		<data>
-		t3WnvdzCidT8KHB0fFeAd74UukI=
-		</data>
-		<key>ARFurniture.storyboardc/ARFurniture.nib/runtime.nib</key>
+		<key>ARFurniture.storyboardc/ARFurniture.nib</key>
 		<data>
 		t3WnvdzCidT8KHB0fFeAd74UukI=
 		</data>
@@ -16,21 +12,17 @@
 		<data>
 		ZmR4u7KlVRXZz0WjAOXrB6ll/HY=
 		</data>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		yZ9YIcm1ZwcA+qs29w1qnvRRI8s=
-		</data>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<data>
-		bCweyngt+VglL7IinYLpavIG0sY=
+		VfAeSjXNyUuaai6GNb3PYlJWHmg=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		DFLk7EPE9H6WtelKDHIl37Zf0N8=
+		YOBnjpIF1Ytfg2u0JJmf2gP8U2Y=
 		</data>
 		<key>Furniture.momd/Furniture.mom</key>
 		<data>
-		gqu8+FbF3Sn57AMSWhUPIDOXiz4=
+		aavVepPZjmDhywsbgPD5las7K0w=
 		</data>
 		<key>Furniture.momd/VersionInfo.plist</key>
 		<data>
@@ -38,7 +30,7 @@
 		</data>
 		<key>FurnitureCollectionCell.nib</key>
 		<data>
-		oVIZgXgZuh177KGK2g62MJ7BRl4=
+		GXir4aqaxTljcvQ1j93MrCGVAac=
 		</data>
 		<key>FurniturePickerViewController.storyboardc/FurniturePickerViewController.nib</key>
 		<data>
@@ -50,11 +42,11 @@
 		</data>
 		<key>FurniturePickerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		fhnCVUjk7+cbrWdWe13d/vw9pEQ=
+		iyeDaaKT58MAnvwsUelNLnsjRlQ=
 		</data>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<data>
-		T+GzzMX7V7I+4Kjr6loI0BqLT5k=
+		HLy3AfNmvuHNd7UKYZn0F6dvpMY=
 		</data>
 		<key>Headers/CSConnectFramework.h</key>
 		<data>
@@ -62,39 +54,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GHpIxw1mB32o4GpZFkV3pBBzHG4=
+		rTV9op3eIGnvDJnIy/K07RB/nXA=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		Kr93nCHKAE8zSd6FcsQ5jvDZvhQ=
+		</data>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		3Tl9lHGqrkpYsaDfQT3hARHTu4c=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		svERa6CPLaeVBH0+T3W0SoaZ3/Y=
+		C8oN+pkQM2R6iN5X6UyNle+3bkQ=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		MGPK3pDtRRKg99PwAnmdwQm8KE8=
+		3Tl9lHGqrkpYsaDfQT3hARHTu4c=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cdqdGxH+bw9JxD6/vniJH7OCKE4=
-		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		svERa6CPLaeVBH0+T3W0SoaZ3/Y=
-		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		MGPK3pDtRRKg99PwAnmdwQm8KE8=
-		</data>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		cdqdGxH+bw9JxD6/vniJH7OCKE4=
+		ouJycCZyuLiL1yJPQMRY057l7o4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4Q7RtDvecx7Ve6Kl+S+SooYH0MU=
+		zNjEjUDSMU4nI+CCcL9KDnQV3Uw=
 		</data>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>
 		<data>
-		C2vCD6TrWHCE5WCB6HdeGcDHYi0=
+		OMKFvycyUvIutcvwSsI6FfRx+7w=
 		</data>
 		<key>SubcategoryPicker.storyboardc/Info.plist</key>
 		<data>
@@ -111,14 +99,7 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>ARFurniture.storyboardc/ARFurniture.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TewcrFRpx1I3PAefbgYL8YdeOWDDzLlXLWfS1m7tGvA=
-			</data>
-		</dict>
-		<key>ARFurniture.storyboardc/ARFurniture.nib/runtime.nib</key>
+		<key>ARFurniture.storyboardc/ARFurniture.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -132,32 +113,25 @@
 			3cp+9JXC8F21BT/wjkdhzkHTeotwzG7AHhLCPjlxQcg=
 			</data>
 		</dict>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2D9iIW68zrYeaHla99hTtIKxN0KOeBbKQTdDRSNCZL0=
-			</data>
-		</dict>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9Nq47LoEWR+ryR9aQAT8NTSjtXkxamVeGK/IhkLt2os=
+			kJEkqXd8vsdej9yqcqMdYQTuSvMF9E2aQ3CO6dsOW5g=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DH3OD88Ci7J6LdRv7X4+j5uKl9AIRsY8qZmmt36szGI=
+			66Y930phx05Vea/YbnXaSl9la6lXtP/qpveSKkP7Fz0=
 			</data>
 		</dict>
 		<key>Furniture.momd/Furniture.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgXq/Sj37DmALyAAo23jwvpkYL/NE1+PhQcriNDTQGk=
+			gGZpoKUBQ5bYVVy4FTkAELMfYvntxeNVgAt5I7654uY=
 			</data>
 		</dict>
 		<key>Furniture.momd/VersionInfo.plist</key>
@@ -171,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/128pgE4kIVP2xmsv/43FqERMJ1MU1OIrVcfo5Ucpw=
+			ZH84cSYvWuno3HACkpHDNIAgBChFk1HMGnHHsTChzws=
 			</data>
 		</dict>
 		<key>FurniturePickerViewController.storyboardc/FurniturePickerViewController.nib</key>
@@ -192,14 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIa+HfaKguYEnimRLaXSGIDm/qV8guOXDNsNmeC4WGU=
+			f6v8Jzv85ySK0E07J5QD29z7tc2ZXP8GxWcdvHBX29A=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UYon4mbrThBkdmsvdCWRNuN+IpV6ga150D+zFxZfy7M=
+			12pcbAlHOgxddr3bYTgSzCOqPF2wskv98U1rB1JfEK8=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework.h</key>
@@ -209,60 +183,53 @@
 			OyhLEJjRhM1hxeRByqvj+tw3FSWleNLojnk0KDojwEA=
 			</data>
 		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XHeBGWKOUL3PlQFOPTxrXoioj7FHZcFEOCEr1bP5xXI=
+			</data>
+		</dict>
+		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hno4RiXXopSMeGAqCK5BBXYSjXboUa2rr7WFY8aVl+Y=
+			</data>
+		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+K+MJkkof8g1xGywl3/zsM+yCY15mKN2XZCdnurvsTg=
+			hwUfxTUac4KfAWHpahBMb2g5jGqEQiDTj/eHGOkFKf0=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aKTJk67Vvv6hnc59vqsIXzxG9epmMR8dF1KM1mBpSp8=
+			Hno4RiXXopSMeGAqCK5BBXYSjXboUa2rr7WFY8aVl+Y=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MY14z20Rkd8wd+1WvKkE+UA4FXAO123xRNxk/Xt1Gwc=
-			</data>
-		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+K+MJkkof8g1xGywl3/zsM+yCY15mKN2XZCdnurvsTg=
-			</data>
-		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aKTJk67Vvv6hnc59vqsIXzxG9epmMR8dF1KM1mBpSp8=
-			</data>
-		</dict>
-		<key>Modules/CSConnectFramework.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MY14z20Rkd8wd+1WvKkE+UA4FXAO123xRNxk/Xt1Gwc=
+			arpON8HFfndibesLdCPdInrsEaurf52MI/H9LCxnfJE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			soIfjIQ93GkBDnfO9I5VApHASSLPdpN8T40xCp6To3s=
+			C31/Jat0aLTQRAfkCaK02zskpNB2WY0ySDXndJCuCQ4=
 			</data>
 		</dict>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fp2eIyva9eateSimHuNjMpcb5+t8ctwI8dg5KcAxoiU=
+			mK43F10seoio2h/cVlHDJq4+i9lp3Oy30xEu/XQk76g=
 			</data>
 		</dict>
 		<key>SubcategoryPicker.storyboardc/Info.plist</key>

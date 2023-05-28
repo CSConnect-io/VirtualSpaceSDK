@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
-// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CSConnectFramework
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CSConnectFramework
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import ARKit
 @_exported import CSConnectFramework
 import Combine
@@ -10,6 +11,7 @@ import RealityKit
 import Swift
 import UIKit
 import _Concurrency
+import _StringProcessing
 @_inheritsConvenienceInitializers @objc(CoreMedia) public class CoreMedia : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
@@ -74,4 +76,5 @@ extension UIKit.UINavigationController {
 }
 extension Swift.Array where Element : Swift.Hashable {
   public func uniqued() -> [Element]
+  public static func - (a: Swift.Array<Element>, b: Swift.Array<Element>) -> Swift.Array<Element>
 }

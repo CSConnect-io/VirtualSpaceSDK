@@ -6,6 +6,6 @@ framework module CSConnectFramework {
 }
 
 module CSConnectFramework.Swift {
-    header "CSConnectFramework-Swift.h"
-    requires objc
+  header "CSConnectFramework-Swift.h"
+  requires objc
 }

@@ -3535,16 +3535,37 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
       "kind": "StringLiteral",
-      "offset": 2248,
+      "offset": 2242,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
+      "kind": "StringLiteral",
+      "offset": 2292,
       "length": 4,
       "value": "\"SN\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
       "kind": "StringLiteral",
-      "offset": 2326,
+      "offset": 2370,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
+      "kind": "StringLiteral",
+      "offset": 2468,
+      "length": 11,
+      "value": "\"Converted\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
+      "kind": "StringLiteral",
+      "offset": 2540,
+      "length": 11,
+      "value": "\"Converted\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/DL\/CoreDataManager.swift",
@@ -3850,84 +3871,70 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2275,
-      "length": 6,
-      "value": "\"Name\""
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
-      "kind": "StringLiteral",
-      "offset": 2309,
+      "offset": 2259,
       "length": 18,
       "value": "\"SessionGlobalKey\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2352,
+      "offset": 2302,
       "length": 15,
       "value": "\"FileGlobalKey\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2393,
+      "offset": 2343,
       "length": 14,
       "value": "\"FullFileName\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2428,
+      "offset": 2378,
       "length": 9,
       "value": "\"FileUrl\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2464,
+      "offset": 2414,
       "length": 11,
       "value": "\"ImagesUrl\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2275,
-      "length": 6,
-      "value": "\"Name\""
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
-      "kind": "StringLiteral",
-      "offset": 2309,
+      "offset": 2259,
       "length": 18,
       "value": "\"SessionGlobalKey\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2352,
+      "offset": 2302,
       "length": 15,
       "value": "\"FileGlobalKey\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2393,
+      "offset": 2343,
       "length": 14,
       "value": "\"FullFileName\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2428,
+      "offset": 2378,
       "length": 9,
       "value": "\"FileUrl\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Domain\/Models\/FurnitureApiEnitty.swift",
       "kind": "StringLiteral",
-      "offset": 2464,
+      "offset": 2414,
       "length": 11,
       "value": "\"ImagesUrl\""
     },

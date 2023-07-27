@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/yNlv2px+rRAWcTe+A9Kn7vcmpw=
+		IQaDJy5cUg+7oD5TE8iyFe+E0wk=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		A0BFxze05SjWB1C228emZbi1iJ8=
+		NKWq+brFrFRs606LKO75otzftDs=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,19 +70,19 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		A0BFxze05SjWB1C228emZbi1iJ8=
+		NKWq+brFrFRs606LKO75otzftDs=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1NFrl2hREPOtoGly7F9UxG910GI=
+		rT5gcc4tSqI0ysj5FPnOsbxlcAc=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/yNlv2px+rRAWcTe+A9Kn7vcmpw=
+		IQaDJy5cUg+7oD5TE8iyFe+E0wk=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		I9ICkm9BmFaYpSKdAe4pMwAJ0EI=
+		ujXi6m4YaXNxEzJQ6f/aEd4v+fY=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,15 +90,27 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		I9ICkm9BmFaYpSKdAe4pMwAJ0EI=
+		ujXi6m4YaXNxEzJQ6f/aEd4v+fY=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VQ6r2a7kUDnyikPr6ln9rmzBkfg=
+		lOpiJKzmIl8UTwh0nRkbt0fIyOE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		zNjEjUDSMU4nI+CCcL9KDnQV3Uw=
+		</data>
+		<key>NewModelView.storyboardc/Info.plist</key>
+		<data>
+		VNNQJdsLVO2kuw18GCUYKn9cqRk=
+		</data>
+		<key>NewModelView.storyboardc/UIViewController-Y6W-OH-hqX.nib</key>
+		<data>
+		Zb3YypEnnr32BmHOtfa3AUyOwNU=
+		</data>
+		<key>NewModelView.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		KXDpDx5X7ACe7vBKsDHTlM6hm7Y=
 		</data>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>
 		<data>
@@ -207,14 +219,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJvQqEqungthqUttTIEWaSFdqyT+Mxq/stCxotpLrAw=
+			CLGd6BUZFz7BZex9/h0aeFO/lMfx9hsHtVK6rzOrjvg=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlhJtcHB/6DuBklZ21ZRFp8FLEtghD/KgrJE0/KxZf8=
+			HeNUbQlclff0jo/0PgErFExGD65GiZUKkqCKQBNxgTk=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -228,28 +240,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlhJtcHB/6DuBklZ21ZRFp8FLEtghD/KgrJE0/KxZf8=
+			HeNUbQlclff0jo/0PgErFExGD65GiZUKkqCKQBNxgTk=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			koWai9VZs7bi6IuY1vzOR04MmwniCFDxlnlQCUjfVeU=
+			UQipOXeUeYSS2Cvz703UCtcYbOptbCM2reqaBGMO6Eg=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJvQqEqungthqUttTIEWaSFdqyT+Mxq/stCxotpLrAw=
+			CLGd6BUZFz7BZex9/h0aeFO/lMfx9hsHtVK6rzOrjvg=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M2ezPikn08KBM73Xq+ZeHDoCo3oGjf4XI+O898sgysM=
+			O3347NNR6uveX1ZUxX4c3/KXweq2zN/b8M+340Q4c28=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -263,14 +275,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M2ezPikn08KBM73Xq+ZeHDoCo3oGjf4XI+O898sgysM=
+			O3347NNR6uveX1ZUxX4c3/KXweq2zN/b8M+340Q4c28=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			epEDEhKBAmzUIv2kX8HMI7TPXJ/Pd3Fzx9wCxTQ5muY=
+			OSEkIT9SSGL5IAreQoyQB2KC2kDllgnZv/WiAYZKqGA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -278,6 +290,27 @@
 			<key>hash2</key>
 			<data>
 			C31/Jat0aLTQRAfkCaK02zskpNB2WY0ySDXndJCuCQ4=
+			</data>
+		</dict>
+		<key>NewModelView.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T4UDtGUXhEjznR+mec/r4oAF7OaHbt1BoF21vWt8YUE=
+			</data>
+		</dict>
+		<key>NewModelView.storyboardc/UIViewController-Y6W-OH-hqX.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MCGEZllwgeu6Nmqct7gpXrT+ARRwmKluC4uEI5gepUw=
+			</data>
+		</dict>
+		<key>NewModelView.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FNfbgBlSL0rxQIRKrjImWCoLPivBInLNV20BfDGFBPQ=
 			</data>
 		</dict>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>

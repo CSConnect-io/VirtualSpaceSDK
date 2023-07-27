@@ -1843,6 +1843,23 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSConnectFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSConnectFramework"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2023,10 +2040,37 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSConnectFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSConnectFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
         "declKind": "Import",
         "moduleName": "CSConnectFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSConnectFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -2171,6 +2215,33 @@
             "declKind": "Func",
             "usr": "s:So22UINavigationControllerC18CSConnectFrameworkE020openVirtualSpaceViewB0yyF",
             "mangledName": "$sSo22UINavigationControllerC18CSConnectFrameworkE020openVirtualSpaceViewB0yyF",
+            "moduleName": "CSConnectFramework",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "openFurnitureViewController",
+            "printedName": "openFurnitureViewController(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So22UINavigationControllerC18CSConnectFrameworkE017openFurnitureViewB0yySSF",
+            "mangledName": "$sSo22UINavigationControllerC18CSConnectFrameworkE017openFurnitureViewB0yySSF",
             "moduleName": "CSConnectFramework",
             "declAttributes": [
               "Custom"
@@ -3136,364 +3207,364 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4111,
+      "offset": 4147,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 4181,
+      "offset": 4217,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4296,
+      "offset": 4332,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4437,
+      "offset": 4473,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 4511,
+      "offset": 4547,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4634,
+      "offset": 4670,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4757,
+      "offset": 4793,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 4825,
+      "offset": 4861,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 4941,
+      "offset": 4977,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5061,
+      "offset": 5097,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 5129,
+      "offset": 5165,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5282,
+      "offset": 5318,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5344,
+      "offset": 5380,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5456,
+      "offset": 5492,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5543,
+      "offset": 5579,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5806,
+      "offset": 5842,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 5906,
+      "offset": 5942,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 6302,
+      "offset": 6338,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "IntegerLiteral",
-      "offset": 6921,
+      "offset": 6957,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "IntegerLiteral",
-      "offset": 7149,
+      "offset": 7185,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 7174,
+      "offset": 7210,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "IntegerLiteral",
-      "offset": 7585,
+      "offset": 7621,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "IntegerLiteral",
-      "offset": 7617,
+      "offset": 7653,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 7741,
+      "offset": 7777,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 8458,
+      "offset": 8494,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 8883,
+      "offset": 8919,
       "length": 27,
       "value": "\"The api key is not valid.\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 8921,
+      "offset": 8957,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 8958,
+      "offset": 8994,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 8976,
+      "offset": 9012,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 9141,
+      "offset": 9177,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 9180,
+      "offset": 9216,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 9198,
+      "offset": 9234,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 9344,
+      "offset": 9380,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 9381,
+      "offset": 9417,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 9418,
+      "offset": 9454,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 9696,
+      "offset": 9732,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 9711,
+      "offset": 9747,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 9834,
+      "offset": 9870,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 10451,
+      "offset": 10487,
       "length": 14,
       "value": "\"Remove model\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 10518,
+      "offset": 10554,
       "length": 44,
       "value": "\"Are you sure you want to delete this item?\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 10687,
+      "offset": 10723,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "StringLiteral",
-      "offset": 10827,
+      "offset": 10863,
       "length": 8,
       "value": "\"Remove\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 10998,
+      "offset": 11034,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 11527,
+      "offset": 11563,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 11978,
+      "offset": 12014,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 12240,
+      "offset": 12276,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 12279,
+      "offset": 12315,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 12539,
+      "offset": 12575,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "BooleanLiteral",
-      "offset": 12663,
+      "offset": 12699,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 12982,
+      "offset": 13018,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 12988,
+      "offset": 13024,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureViewcontroller.swift",
       "kind": "FloatLiteral",
-      "offset": 12994,
+      "offset": 13030,
       "length": 3,
       "value": "0.0"
     },
@@ -3558,14 +3629,14 @@
       "kind": "StringLiteral",
       "offset": 2468,
       "length": 11,
-      "value": "\"Converted\""
+      "value": "\"converted\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Utils\/Mapper.swift",
       "kind": "StringLiteral",
       "offset": 2540,
       "length": 11,
-      "value": "\"Converted\""
+      "value": "\"converted\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/DL\/CoreDataManager.swift",
@@ -3941,224 +4012,266 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "Array",
-      "offset": 1326,
+      "offset": 1424,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "Array",
-      "offset": 1385,
+      "offset": 1483,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "Array",
-      "offset": 1488,
+      "offset": 1586,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "Array",
-      "offset": 1608,
+      "offset": 1706,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2786,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "Array",
-      "offset": 3456,
+      "offset": 3732,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3949,
+      "offset": 4225,
       "length": 34,
       "value": "\"There are no editable parts here\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 4114,
+      "offset": 4390,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4154,
+      "offset": 4430,
       "length": 26,
       "value": "\"There are no objets here\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 4195,
+      "offset": 4471,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 4256,
+      "offset": 4532,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4300,
+      "offset": 4576,
       "length": 26,
       "value": "\"There are no objets here\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 4345,
+      "offset": 4621,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 826,
+      "offset": 877,
       "length": 20,
       "value": "\"CSConnectFramework.FurnitureCoordinator\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 6805,
+      "offset": 7081,
       "length": 33,
       "value": "\"Can not download an usdz model.\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 6866,
+      "offset": 7142,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 6879,
+      "offset": 7155,
       "length": 3,
       "value": "\" has generated error \""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 6908,
+      "offset": 7184,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7265,
+      "offset": 7541,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7273,
+      "offset": 7549,
       "length": 1,
       "value": "\".usdz\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7600,
+      "offset": 7876,
       "length": 53,
       "value": "\"Can not transform the binar data to the usdz model.\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7769,
+      "offset": 8045,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7782,
+      "offset": 8058,
       "length": 3,
       "value": "\" has generated error \""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7811,
+      "offset": 8087,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 7856,
+      "offset": 8132,
       "length": 53,
       "value": "\"Can not transform the binar data to the usdz model.\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 8209,
+      "offset": 8448,
+      "length": 14,
+      "value": "\"NewModelView\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9653,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9666,
+      "length": 3,
+      "value": "800"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9725,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 9788,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 10008,
       "length": 19,
       "value": "\"SubcategoryPicker\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 8913,
+      "offset": 10712,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 8976,
+      "offset": 10775,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 9223,
+      "offset": 11022,
       "length": 31,
       "value": "\"FurniturePickerViewController\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10484,
+      "offset": 12283,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 10547,
+      "offset": 12346,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10794,
+      "offset": 12593,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/FurnitureCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10931,
+      "offset": 12730,
       "length": 4,
       "value": "true"
     },
@@ -4297,17 +4410,17 @@
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/CSFurnitureProtocol.swift",
-      "kind": "StringLiteral",
-      "offset": 622,
-      "length": 13,
-      "value": "\"ARFurniture\""
+      "kind": "BooleanLiteral",
+      "offset": 517,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/CSFurnitureProtocol.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1951,
-      "length": 4,
-      "value": "true"
+      "kind": "StringLiteral",
+      "offset": 834,
+      "length": 13,
+      "value": "\"ARFurniture\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Data Access\/AppSetting\/AppSettingsDAO.swift",
@@ -4322,6 +4435,27 @@
       "offset": 475,
       "length": 29,
       "value": "\"appSettings.lastValidateKey\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1847,
+      "length": 43,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1860,
+      "length": 3,
+      "value": "\" has generated error \""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1889,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Data Access\/Furniture\/FurnitureDao.swift",
@@ -4438,14 +4572,14 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/Model\/FurnitureViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 540,
+      "offset": 547,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/Model\/FurnitureViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 921,
+      "offset": 928,
       "length": 21,
       "value": "\"CSConnectFramework.FurnitureViewModelExt\""
     },
@@ -4772,6 +4906,90 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1023,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1097,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1142,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1259,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2290,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2308,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2389,
+      "length": 26,
+      "value": "\"Furniture was not found.\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2698,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2713,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2836,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3100,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/NewModel\/NewModelViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3201,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Data Access\/Media\/MediaDao.swift",
       "kind": "StringLiteral",
       "offset": 995,
@@ -4809,56 +5027,56 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 599,
+      "offset": 615,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1282,
+      "offset": 1298,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1575,
+      "offset": 1591,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1647,
+      "offset": 1663,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "Array",
-      "offset": 2343,
+      "offset": 2398,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "Array",
-      "offset": 2413,
+      "offset": 2468,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 2915,
+      "offset": 2970,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/ARFurniture\/ARFurnitureDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3505,
+      "offset": 3560,
       "length": 4,
       "value": "1000"
     },

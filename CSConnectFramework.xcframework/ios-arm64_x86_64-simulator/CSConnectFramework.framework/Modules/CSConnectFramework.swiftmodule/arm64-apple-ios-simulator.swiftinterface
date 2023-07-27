@@ -73,8 +73,10 @@ extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
 }
 extension UIKit.UINavigationController {
   @_Concurrency.MainActor(unsafe) public func openVirtualSpaceViewController()
+  @_Concurrency.MainActor(unsafe) public func openFurnitureViewController(_ furnitureId: CSConnectFramework.FurnitureId)
 }
 extension Swift.Array where Element : Swift.Hashable {
   public func uniqued() -> [Element]
   public static func - (a: Swift.Array<Element>, b: Swift.Array<Element>) -> Swift.Array<Element>
 }
+public typealias FurnitureId = Swift.String

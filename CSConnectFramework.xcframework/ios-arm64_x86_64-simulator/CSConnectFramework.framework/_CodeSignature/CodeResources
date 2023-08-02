@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<data>
-		790cbMug0UjkLSc4rBv6D7Jg9W8=
+		Lt5SAKhi1NbyHQUvysjNIe4wfSE=
 		</data>
 		<key>Headers/CSConnectFramework.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZwYAh1NKyI2E0ToaNda4Hh88C40=
+		BnQvwcMj8d/lPZibvfiNO7Dx/UA=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YZ8W5ZBie7+QO1HPxD9eAxpIucU=
+		s/qeYeau5d2zqcxXz34VPECbXxE=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZwYAh1NKyI2E0ToaNda4Hh88C40=
+		BnQvwcMj8d/lPZibvfiNO7Dx/UA=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UBFY1NZN6d8wNkpwb6r6d+5UYfI=
+		Oe2OiT7R8tryo/xFTOJYt8U0X0U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CJMtxrmT8dnsL0ohkd2o0vQpMKNRSTao2YBqwag+Mdc=
+			AmNwiyDV+IXhVNvIPlecCj1BIX3oZF62VhbPHJKEdVk=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework.h</key>
@@ -219,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uS3vU36HrbGnJW0Iqgxjmo8rfcL4Y90reDtdGYI2dI=
+			X6mG5S51Db/gCvOxhygJB9aPT4XpQ92OTFHk9fSb2FU=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -247,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RUyYwgZYop0SVCiaS+Y+5fXUY+QVPsGUWs0iogkYKWk=
+			61FUuHbD6ZtTdWPiPUpsTKpTWVNYGvNPOW7Zhf0cRM4=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uS3vU36HrbGnJW0Iqgxjmo8rfcL4Y90reDtdGYI2dI=
+			X6mG5S51Db/gCvOxhygJB9aPT4XpQ92OTFHk9fSb2FU=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -282,7 +282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NRj+fNORoLJwog6U1GORqN/0/mCiu0n5nCJ+Zc7RvU8=
+			V1MYVXFH4MMuC1MMGLD0Mocc+SNZ1L+y2wfGTDmnhlk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<data>
-		X9mmcd1KsXwMfzNrFv0YPL5oDXo=
+		41cOPd0zrSPBKWWAxIkITg9816U=
 		</data>
 		<key>Headers/CSConnectFramework.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZwYAh1NKyI2E0ToaNda4Hh88C40=
+		BnQvwcMj8d/lPZibvfiNO7Dx/UA=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zNzrFXZZ/10ubDGutJIz+655ciM=
+		+45Mcu21Ayg1LkX0YrAZ5pJkmc4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yBvThD3VzOkPhGub1aRqducVWDiFvHS/Loms0JerA2s=
+			/cjJt5+r2ZEZ79Bjg9VJPiDwC2yuuiR+Ldl1gO+eQHk=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework.h</key>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uS3vU36HrbGnJW0Iqgxjmo8rfcL4Y90reDtdGYI2dI=
+			X6mG5S51Db/gCvOxhygJB9aPT4XpQ92OTFHk9fSb2FU=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -227,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hj5T4tO3wAtWdd5sNlScl8UzSjFPgP2hK6ncLU9gwOg=
+			BW01eoOtGQH5SoFibBKEUyX0aTwUAqKCMRHoXn+n1pI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -320,6 +320,7 @@ SWIFT_CLASS_NAMED("CoreMedia")
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -645,6 +646,7 @@ SWIFT_CLASS_NAMED("CoreMedia")
 @property (nonatomic, copy) NSData * _Nullable data;
 @property (nonatomic, copy) NSString * _Nullable url;
 @end
+
 
 
 

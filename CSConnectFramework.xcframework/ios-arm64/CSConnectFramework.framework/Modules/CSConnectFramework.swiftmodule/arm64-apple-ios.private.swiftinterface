@@ -1,21 +1,128 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CSConnectFramework
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import ARKit
 @_exported import CSConnectFramework
 import Combine
 import CoreData
+import DeveloperToolsSupport
 import Foundation
+import GLTFSceneKit
+import QuickLook
 import RealityKit
+import SceneKit
 import Swift
+import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
+import os
+@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class Media {
+  final public let url: Swift.String
+  public var data: Foundation.Data?
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class ImageProvider {
+  public static func image(named: Swift.String) -> UIKit.UIImage?
+  @objc deinit
+}
+public enum Scheme {
+  case prod
+  case debug
+  public static func == (a: CSConnectFramework.Scheme, b: CSConnectFramework.Scheme) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class FurnitureSDK {
+  @objc deinit
+}
+extension CSConnectFramework.CoreFurniture {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreFurniture>
+  @objc @NSManaged dynamic public var category: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var companyName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var fullName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var id: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var imgUrl: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var modelUrl: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var name: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var serialNumber: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var sessionId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var subcategory: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var type: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var createdDate: Foundation.Date? {
+    @objc get
+    @objc set
+  }
+}
+extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
+  public typealias ID = Swift.String?
+}
+public typealias Company = Swift.String
+public typealias Category = Swift.String
+public typealias Subcategory = Swift.String
+public typealias ClientKey = Swift.String
+public typealias AccessKey = Swift.String
+public enum Authorization {
+  case companyApiKey(key: CSConnectFramework.ClientKey)
+  case userAccessKey(key: CSConnectFramework.AccessKey)
+  case configFile
+}
+extension UIKit.UINavigationController {
+  @_Concurrency.MainActor(unsafe) public func openVirtualSpaceViewController(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.Scheme = .debug)
+  @_Concurrency.MainActor(unsafe) public func openNewFurnitureViewController(_ furnitureSessionId: CSConnectFramework.SessionId, authorization: CSConnectFramework.Authorization = .configFile, forceLoad: Swift.Bool = true, scheme: CSConnectFramework.Scheme = .debug)
+  @_Concurrency.MainActor(unsafe) public func openAssetLibrary(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.Scheme = .debug)
+}
+extension Swift.Array where Element : Swift.Hashable {
+  public func uniqued() -> [Element]
+  public static func - (a: Swift.Array<Element>, b: Swift.Array<Element>) -> Swift.Array<Element>
+}
 @_inheritsConvenienceInitializers @objc(CoreMedia) public class CoreMedia : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
+public typealias FurnitureId = Swift.String
+public typealias SessionId = Swift.String
 extension CSConnectFramework.CoreMedia {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreMedia>
   @objc @NSManaged dynamic public var data: Foundation.Data? {
@@ -30,53 +137,5 @@ extension CSConnectFramework.CoreMedia {
 extension CSConnectFramework.CoreMedia : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-@_hasMissingDesignatedInitializers public class FurnitureSDK {
-  @objc deinit
-}
-extension CSConnectFramework.CoreFurniture {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreFurniture>
-  @objc @NSManaged dynamic public var category: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var id: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var imgUrl: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var name: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var serialNumber: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var subcategory: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var usdzUrl: Swift.String? {
-    @objc get
-    @objc set
-  }
-}
-extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
-  public typealias ID = Swift.String?
-}
-@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
-extension UIKit.UINavigationController {
-  @_Concurrency.MainActor(unsafe) public func openVirtualSpaceViewController()
-  @_Concurrency.MainActor(unsafe) public func openFurnitureViewController(_ furnitureId: CSConnectFramework.FurnitureId)
-}
-extension Swift.Array where Element : Swift.Hashable {
-  public func uniqued() -> [Element]
-  public static func - (a: Swift.Array<Element>, b: Swift.Array<Element>) -> Swift.Array<Element>
-}
-public typealias FurnitureId = Swift.String
+extension CSConnectFramework.Scheme : Swift.Equatable {}
+extension CSConnectFramework.Scheme : Swift.Hashable {}

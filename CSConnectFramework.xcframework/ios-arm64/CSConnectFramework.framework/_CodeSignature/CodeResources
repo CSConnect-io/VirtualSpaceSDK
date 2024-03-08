@@ -4,37 +4,77 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>ARFurniture.storyboardc/ARFurniture.nib</key>
+		<key>ARSceneFurniture.storyboardc/ARFurniture.nib</key>
 		<data>
-		t3WnvdzCidT8KHB0fFeAd74UukI=
+		MoM1vk3xS9DSQ9yurqow8T0f25w=
 		</data>
-		<key>ARFurniture.storyboardc/Info.plist</key>
+		<key>ARSceneFurniture.storyboardc/Info.plist</key>
 		<data>
 		ZmR4u7KlVRXZz0WjAOXrB6ll/HY=
 		</data>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>ARSceneFurniture.storyboardc/YOV-ol-Dnn-view-fac-8c-2IH.nib</key>
 		<data>
-		VfAeSjXNyUuaai6GNb3PYlJWHmg=
+		5M3dmSooedfrjHnEZFP4xftuHmE=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		fwATFMiFkY5SQBEyr6l2hhKYfaw=
+		nchBSyHA9sXDBDcHM14JDyMUBsc=
+		</data>
+		<key>FilterViewController.storyboardc/FilterViewController.nib</key>
+		<data>
+		Ia8eJbyCAJSmKTNgSzmRsVZanBg=
+		</data>
+		<key>FilterViewController.storyboardc/Info.plist</key>
+		<data>
+		NyhuJTbGPTjUuVG6auVotAImR1o=
+		</data>
+		<key>FilterViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		6H36Qbgtu3VzL0aqacqF/oWsrHo=
+		</data>
+		<key>Furniture.momd/Furniture 4.mom</key>
+		<data>
+		cDqG5a+17XEtUKJa3vuD9ZR/Bks=
+		</data>
+		<key>Furniture.momd/Furniture 5.mom</key>
+		<data>
+		N2ZnaczRbMtBejF2WXJn4sopRFw=
+		</data>
+		<key>Furniture.momd/Furniture 5.omo</key>
+		<data>
+		05ipzyc1kCKFsHhZUqSWdcfFcgw=
 		</data>
 		<key>Furniture.momd/Furniture.mom</key>
 		<data>
-		R3DyQ3rEtBmehhrH5lPhbvoVLIM=
+		+RGmxmeaNBQWbJstsoJW/JSYGTM=
+		</data>
+		<key>Furniture.momd/Furniture2.mom</key>
+		<data>
+		0+aa5c8i3uJTY3Ae5hi8wRt4rWA=
+		</data>
+		<key>Furniture.momd/Furniture3.mom</key>
+		<data>
+		fElSVBQrq3qulCFpD8HqdQ4R+T0=
 		</data>
 		<key>Furniture.momd/VersionInfo.plist</key>
 		<data>
-		1CAFv+sPaBX7kDtE/GENsIkASxw=
+		UT7onjD5uioq9bE0Dmd65F3P9Ic=
 		</data>
 		<key>FurnitureCollectionCell.nib</key>
 		<data>
-		GXir4aqaxTljcvQ1j93MrCGVAac=
+		3kvUGufRt1u8wYMsFzlSr7Mkhus=
+		</data>
+		<key>FurnitureCompactCollectionCell.nib</key>
+		<data>
+		jLcgqOcfZnt+Fbib0W4az3udtVk=
+		</data>
+		<key>FurnitureLineCollectionCell.nib</key>
+		<data>
+		uTVo5EnO/Pd6WDIu8yqQxOr/Dww=
 		</data>
 		<key>FurniturePickerViewController.storyboardc/FurniturePickerViewController.nib</key>
 		<data>
-		86DuRSiUZEZ2m4tuMAb55H0ntNg=
+		JgcpKjZTY5VeykSUjAmaj+Fv8p8=
 		</data>
 		<key>FurniturePickerViewController.storyboardc/Info.plist</key>
 		<data>
@@ -42,11 +82,11 @@
 		</data>
 		<key>FurniturePickerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		iyeDaaKT58MAnvwsUelNLnsjRlQ=
+		FvU7l36dy4gR4uK5kjAXbx9OVuo=
 		</data>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<data>
-		41cOPd0zrSPBKWWAxIkITg9816U=
+		cS64xjLMp78mf1MFH9a8dBxL19s=
 		</data>
 		<key>Headers/CSConnectFramework.h</key>
 		<data>
@@ -54,47 +94,75 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EggEAaFda59mnNDSDeMCyiH26wU=
+		ytxXEnV7yPuSzhOvOW/fclGouN0=
+		</data>
+		<key>LibraryCollectionCell.nib</key>
+		<data>
+		J7e43CHJTuYNtn9XyWV1SK41OuM=
+		</data>
+		<key>LibraryItemViewController.storyboardc/Info.plist</key>
+		<data>
+		nVdmNTEZwWYOZIAsytqK8akmO8g=
+		</data>
+		<key>LibraryItemViewController.storyboardc/LibraryItemViewController.nib</key>
+		<data>
+		Zc9/EaKinCAWLhbqwjDvRzXHBck=
+		</data>
+		<key>LibraryItemViewController.storyboardc/YOV-ol-Dnn-view-fac-8c-2IH.nib</key>
+		<data>
+		e8g+YPpWVDCOyRLYMk1E9JtcBYU=
+		</data>
+		<key>LibraryViewController.storyboardc/Info.plist</key>
+		<data>
+		4pOyCod8lQ+cuPgHnczVjnf0nL8=
+		</data>
+		<key>LibraryViewController.storyboardc/LibraryViewController.nib</key>
+		<data>
+		vyW2rqfvg3EwV323PTGYQ1EoDf4=
+		</data>
+		<key>LibraryViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		2zqwCOO5pEL476RXGpRXMat0uGw=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		BnQvwcMj8d/lPZibvfiNO7Dx/UA=
+		DmHFYLD6ECnjeTIoaBSfxFPrS4A=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		HfcAZDPUtJ36NRqiL0m/fra+zls=
+		GiiCx00h01fyPVcS4Nu7rL2LAJ8=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		axhAbg8xdeC+Hny1Q7C3sNRnrDY=
+		tCILfbZbdBgElHCM7xebYdvBd+k=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		HfcAZDPUtJ36NRqiL0m/fra+zls=
+		GiiCx00h01fyPVcS4Nu7rL2LAJ8=
 		</data>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+45Mcu21Ayg1LkX0YrAZ5pJkmc4=
+		jLVShOfPHXt94r+GAnPQ6OsYpho=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		zNjEjUDSMU4nI+CCcL9KDnQV3Uw=
+		RWAKDrJkyHQ19J1f3V6bV0Rzz1k=
 		</data>
 		<key>NewModelView.storyboardc/Info.plist</key>
 		<data>
-		VNNQJdsLVO2kuw18GCUYKn9cqRk=
+		hLRcHkzvljVDsmaOY5IAoTB7PgI=
 		</data>
-		<key>NewModelView.storyboardc/UIViewController-Y6W-OH-hqX.nib</key>
+		<key>NewModelView.storyboardc/NewModelController.nib</key>
 		<data>
-		Zb3YypEnnr32BmHOtfa3AUyOwNU=
+		8hdZLhnFM4FWBAqD+JnG+fJ7OBc=
 		</data>
-		<key>NewModelView.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>NewModelView.storyboardc/vjA-md-Qrb-view-Y3H-jo-GcQ.nib</key>
 		<data>
-		KXDpDx5X7ACe7vBKsDHTlM6hm7Y=
+		/+rNCVy2AbKOOQ+yP6Jc2ByqC44=
 		</data>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>
 		<data>
-		OMKFvycyUvIutcvwSsI6FfRx+7w=
+		+xM5kDvenHHvnWjinhyLCbTvq+w=
 		</data>
 		<key>SubcategoryPicker.storyboardc/Info.plist</key>
 		<data>
@@ -102,69 +170,167 @@
 		</data>
 		<key>SubcategoryPicker.storyboardc/SubcategoryPicker.nib</key>
 		<data>
-		zaq4+uV+9RaxaXCzR7A7MAsFeHQ=
+		w+aRtnin+KsCdNEaCWXiyl8oavU=
+		</data>
+		<key>VirtualCollectionCell.nib</key>
+		<data>
+		KTPRriQhkRQCN3uxdkaK5rVywPQ=
+		</data>
+		<key>VirtualHeaderCell.nib</key>
+		<data>
+		HE0BZNrJ1Y3FXGJHrTA5TfSxLXE=
+		</data>
+		<key>VirtualPickerViewController.storyboardc/Info.plist</key>
+		<data>
+		geXOIwXV3xWM85r8lNhoUI4WSvM=
+		</data>
+		<key>VirtualPickerViewController.storyboardc/Mtn-vu-zkY-view-ixX-TQ-Jjn.nib</key>
+		<data>
+		quWjLZXryk7w8Jh9nU0uZedKNGw=
+		</data>
+		<key>VirtualPickerViewController.storyboardc/VirtualPickerViewController.nib</key>
+		<data>
+		BAwwcuVKHNxvueWhJKrMZuxdWnM=
+		</data>
+		<key>boundingBox.usdz</key>
+		<data>
+		M14R5rigGQLyp23ar7TRQ2i//vE=
 		</data>
 		<key>grid.png</key>
 		<data>
 		OfKys3UrdULaJMYOVeEhgIyrDZ0=
 		</data>
+		<key>move_gesture.usdz</key>
+		<data>
+		/HGqfQXd6kOizAWQ2t8Au+hpr1E=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>ARFurniture.storyboardc/ARFurniture.nib</key>
+		<key>ARSceneFurniture.storyboardc/ARFurniture.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TewcrFRpx1I3PAefbgYL8YdeOWDDzLlXLWfS1m7tGvA=
+			hjkTVHMOMmDwqOqfOJvKHVyc4yQonjTDN0NLyir7It8=
 			</data>
 		</dict>
-		<key>ARFurniture.storyboardc/Info.plist</key>
+		<key>ARSceneFurniture.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			3cp+9JXC8F21BT/wjkdhzkHTeotwzG7AHhLCPjlxQcg=
 			</data>
 		</dict>
-		<key>ARFurniture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>ARSceneFurniture.storyboardc/YOV-ol-Dnn-view-fac-8c-2IH.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kJEkqXd8vsdej9yqcqMdYQTuSvMF9E2aQ3CO6dsOW5g=
+			rGFNNBfUwH0SyMFmR4MjD9OQt2/TrEtZK85iUYU5VpI=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3ET4TgQLd9T5mw/w9BVKsT97AO+wJZDK+eMSFOINZM=
+			qo7BaTs8D5Y0uSe1ZXeTFEeBXhbD2jnxxzg+onqLD+w=
+			</data>
+		</dict>
+		<key>FilterViewController.storyboardc/FilterViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fWWwuyp0EGReLkrTgeCedgN0k9/OASF8KTI3a/lUZyM=
+			</data>
+		</dict>
+		<key>FilterViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jF+v6x3GUbin9T8N8PmliNYozacrVizmblUYPzOfwlU=
+			</data>
+		</dict>
+		<key>FilterViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6yk5U60/0/HXck0WbS/WL9sOXehg2nJxRCFiGk7mkTA=
+			</data>
+		</dict>
+		<key>Furniture.momd/Furniture 4.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Ry/okENvLqm/4oYaesSE38WoPcjyv9T26/XZ2yputk=
+			</data>
+		</dict>
+		<key>Furniture.momd/Furniture 5.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gQbyCF7hTaa5rsLxNXI3bGp4NKHcpSpXmeKXLng8IMg=
+			</data>
+		</dict>
+		<key>Furniture.momd/Furniture 5.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			km6t5YU/GRd06g04Mh7TlOpmW1mtKkBCQ3izj+mU8OU=
 			</data>
 		</dict>
 		<key>Furniture.momd/Furniture.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3O0dyzRHITtb5HM8KX/q3D5K29GRx4vPgCiEg+tN2BI=
+			XsGj3Oy6mo7Khzp/bKuf1Q2Z1a144msbv80c0DUoT/c=
+			</data>
+		</dict>
+		<key>Furniture.momd/Furniture2.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XpkfkbZZEQw0d8Dd3A3NA/CS1GuikIqZuecpH1pfrBY=
+			</data>
+		</dict>
+		<key>Furniture.momd/Furniture3.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mlHV35JM3CM1JPS/EwOz9DCGq/GXJCTtVkuiq1HhmXE=
 			</data>
 		</dict>
 		<key>Furniture.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w8mFdxu3nN0miS6ohGsDmy238VY6Ra6EqmmINwh6C7I=
+			DkTV1SAbFrnT96K/sQaWaLRDcVO8TvwArOA1L00n9Y0=
 			</data>
 		</dict>
 		<key>FurnitureCollectionCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZH84cSYvWuno3HACkpHDNIAgBChFk1HMGnHHsTChzws=
+			P6qLItojC9+Qgm6rf7gV2+o9gTbCYRzPCqxBeNG/a7c=
+			</data>
+		</dict>
+		<key>FurnitureCompactCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			plCqxPg7/B4nGDVBjHFtmMDX+EyQy0DaUKWFe0irfXw=
+			</data>
+		</dict>
+		<key>FurnitureLineCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ah6C7elgRen1A/XKmJC8DKh/7dJGZvmn20nt71+ndXA=
 			</data>
 		</dict>
 		<key>FurniturePickerViewController.storyboardc/FurniturePickerViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			15n7cK0P/d1DfLt7NTii3DuE1ywHTEC+4FBDlEXncDg=
+			N+XrVo1+ueGD4kbjFO5TKjMKHsaTVtUJRpqCspVWbKM=
 			</data>
 		</dict>
 		<key>FurniturePickerViewController.storyboardc/Info.plist</key>
@@ -178,14 +344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f6v8Jzv85ySK0E07J5QD29z7tc2ZXP8GxWcdvHBX29A=
+			YIEOhBx2Q9imuA6xU8CJ4xMtETtJ0MpWq8yNKMqUHMQ=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/cjJt5+r2ZEZ79Bjg9VJPiDwC2yuuiR+Ldl1gO+eQHk=
+			98dAypbRe0lDHmqFq53wMr0xqI3nb4acNZerWRM4SG0=
 			</data>
 		</dict>
 		<key>Headers/CSConnectFramework.h</key>
@@ -195,74 +361,123 @@
 			OyhLEJjRhM1hxeRByqvj+tw3FSWleNLojnk0KDojwEA=
 			</data>
 		</dict>
+		<key>LibraryCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YIyTVjNC6XCc1H0V+BE2qQxt3DR7JX+QEUUjLhzzB3Q=
+			</data>
+		</dict>
+		<key>LibraryItemViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V8OYQ1wbxKe/6ypxgVC1fo2n88cYDYIwrUVtHx6Dx/s=
+			</data>
+		</dict>
+		<key>LibraryItemViewController.storyboardc/LibraryItemViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g+4eK66I7+M8qCnZF6Z6RDCJSM4IrbfLIMBKQ5Yt1Bg=
+			</data>
+		</dict>
+		<key>LibraryItemViewController.storyboardc/YOV-ol-Dnn-view-fac-8c-2IH.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rvf+/RDYPvjId4G+tWwMeJNswvtCryxQ15Y/zKNe7Do=
+			</data>
+		</dict>
+		<key>LibraryViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ctD2vloEAXa0BTrRxVNXu5TrThRiekjqpree7xrbmRw=
+			</data>
+		</dict>
+		<key>LibraryViewController.storyboardc/LibraryViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CEzsoCXScA7UzlAbiDBDkvtsJvfmswb2qJEJf26Zuww=
+			</data>
+		</dict>
+		<key>LibraryViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Oqg37hmv/vTuFoLvWI5InZ/cevA/fD2vCemSvYlz+Uo=
+			</data>
+		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6mG5S51Db/gCvOxhygJB9aPT4XpQ92OTFHk9fSb2FU=
+			kIgS6dkTLwFnJxdRQnVtvpFrGsSHjBRcab7ZwqinRNQ=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7aevfQTlkY8ZAo+73C9JTXqH+DQdlG5mKUws89egN8=
+			P4Uf07H861CZBGt9M+NORnyWB7zSqbCf8iy3HG4inEU=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CWtrUfm12J7/b+OV73K5y1tm5GN461sLyLJghYFBmCM=
+			/QtKkaUUUariAix/7AQUSIsu3MxdBzgJwtaGnnf4g1Q=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7aevfQTlkY8ZAo+73C9JTXqH+DQdlG5mKUws89egN8=
+			P4Uf07H861CZBGt9M+NORnyWB7zSqbCf8iy3HG4inEU=
 			</data>
 		</dict>
 		<key>Modules/CSConnectFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BW01eoOtGQH5SoFibBKEUyX0aTwUAqKCMRHoXn+n1pI=
+			T5wXOeSkMkdFtzea8fJvvqSlHnjT+3MIorP9d8WqKzo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C31/Jat0aLTQRAfkCaK02zskpNB2WY0ySDXndJCuCQ4=
+			29WaDcG6Zaj8OX1j4qHXrz0qk8BerU4feNEe0wwccVk=
 			</data>
 		</dict>
 		<key>NewModelView.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T4UDtGUXhEjznR+mec/r4oAF7OaHbt1BoF21vWt8YUE=
+			1cCu4GmqwMbCpYwIhkEmhFWaqzZZokS+GZ7rsNauQXo=
 			</data>
 		</dict>
-		<key>NewModelView.storyboardc/UIViewController-Y6W-OH-hqX.nib</key>
+		<key>NewModelView.storyboardc/NewModelController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MCGEZllwgeu6Nmqct7gpXrT+ARRwmKluC4uEI5gepUw=
+			fnTuvtpahF8QyNO1Q06qxNBr8+7jo5WIhMyJ+jzcVRs=
 			</data>
 		</dict>
-		<key>NewModelView.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>NewModelView.storyboardc/vjA-md-Qrb-view-Y3H-jo-GcQ.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FNfbgBlSL0rxQIRKrjImWCoLPivBInLNV20BfDGFBPQ=
+			R290uJgUHgSrXDZEGghhvn873bFDwSOhmnGKMbg/zfs=
 			</data>
 		</dict>
 		<key>SubcategoryPicker.storyboardc/DdI-mz-sbI-view-Pf0-N8-mP4.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mK43F10seoio2h/cVlHDJq4+i9lp3Oy30xEu/XQk76g=
+			ZMzwxirvyAbc39jr1E5hwZSFOgWHR92bEKVruZPxvKQ=
 			</data>
 		</dict>
 		<key>SubcategoryPicker.storyboardc/Info.plist</key>
@@ -276,7 +491,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HjAfGnXRqyokj/GgmMiohmzWHNEQ+DNSI6acevvRNzI=
+			rkm08EMxsZy0vr/Xrwpal3+ktNrbv2Tb/a13jS8AAZg=
+			</data>
+		</dict>
+		<key>VirtualCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JUOzyhqLIuoh4PqiBEGRGgjoyk/yHxMr/PaA9NW6zSE=
+			</data>
+		</dict>
+		<key>VirtualHeaderCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gCAU1vYSlKu31yteirFrnJTq0zGFmWAaEHAo2ICdFEY=
+			</data>
+		</dict>
+		<key>VirtualPickerViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AY1IZIHnn8rVtkuNh3FnRHOeYcymRkp1mPqlFpzA0EI=
+			</data>
+		</dict>
+		<key>VirtualPickerViewController.storyboardc/Mtn-vu-zkY-view-ixX-TQ-Jjn.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lkaHG+wlrM5Mc/87ETWE+LuhY75FvzjMHmFTuuxs0Oo=
+			</data>
+		</dict>
+		<key>VirtualPickerViewController.storyboardc/VirtualPickerViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NuYAqPrDNxZ5YjLO8T9OxyRs0xymHJy/BQn83y64bms=
+			</data>
+		</dict>
+		<key>boundingBox.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mr71PXHpxF9B6a0QmjnPG2pYpWldu/anJ4RjsX1vUF0=
 			</data>
 		</dict>
 		<key>grid.png</key>
@@ -284,6 +541,13 @@
 			<key>hash2</key>
 			<data>
 			A11Q7gFkyFomT2uZMjJHkzedXUx8Yr8UIAGY30R3UKk=
+			</data>
+		</dict>
+		<key>move_gesture.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KE8J29t/ILsaUaGRNEgjHeH5wjsKwszHRxQ1gkYvfVo=
 			</data>
 		</dict>
 	</dict>

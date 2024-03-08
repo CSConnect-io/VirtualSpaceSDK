@@ -1,7 +1,7 @@
 framework module CSConnectFramework {
   umbrella header "CSConnectFramework.h"
-
   export *
+
   module * { export * }
 }
 

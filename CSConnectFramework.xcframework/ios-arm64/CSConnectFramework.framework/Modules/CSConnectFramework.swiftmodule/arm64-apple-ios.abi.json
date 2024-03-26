@@ -5806,420 +5806,378 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1792,
+      "offset": 1638,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2038,
+      "offset": 1884,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2084,
+      "offset": 1930,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2203,
+      "offset": 2049,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2251,
+      "offset": 2097,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2337,
+      "offset": 2183,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2387,
+      "offset": 2233,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2514,
+      "offset": 2360,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2619,
+      "offset": 2465,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
+      "offset": 2526,
+      "length": 19,
+      "value": "\"images\/icCalendar\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
+      "kind": "IntegerLiteral",
       "offset": 2680,
-      "length": 19,
-      "value": "\"images\/icCalendar\""
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2834,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2840,
+      "offset": 2686,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2850,
+      "offset": 2696,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2862,
+      "offset": 2708,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2967,
+      "offset": 2813,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2973,
+      "offset": 2819,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2983,
+      "offset": 2829,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2995,
+      "offset": 2841,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3236,
+      "offset": 3082,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3242,
+      "offset": 3088,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3288,
+      "offset": 3134,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3461,
+      "offset": 3307,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3595,
+      "offset": 3441,
       "length": 6,
       "value": "\"Done\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3781,
+      "offset": 3627,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3932,
+      "offset": 3778,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3980,
+      "offset": 3826,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4103,
+      "offset": 3949,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4202,
+      "offset": 4048,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4271,
+      "offset": 4117,
       "length": 19,
       "value": "\"images\/icCalendar\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4423,
+      "offset": 4269,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4429,
+      "offset": 4275,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4439,
+      "offset": 4285,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4451,
+      "offset": 4297,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4556,
+      "offset": 4402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4562,
+      "offset": 4408,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4572,
+      "offset": 4418,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4584,
+      "offset": 4430,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4821,
+      "offset": 4667,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4827,
+      "offset": 4673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4873,
+      "offset": 4719,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5042,
+      "offset": 4888,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5174,
+      "offset": 5020,
       "length": 6,
       "value": "\"Done\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5349,
+      "offset": 5195,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5488,
+      "offset": 5334,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5532,
+      "offset": 5378,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5647,
+      "offset": 5493,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5729,
+      "offset": 5575,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5775,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 5832,
-      "length": 3,
-      "value": "4.0"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5880,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 5942,
-      "length": 3,
-      "value": "4.0"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5995,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 6052,
-      "length": 3,
-      "value": "4.0"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6100,
+      "offset": 5621,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6953,
+      "offset": 6474,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7196,
+      "offset": 6717,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7280,
+      "offset": 6801,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7511,
+      "offset": 7032,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7670,
+      "offset": 7191,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/LibraryViewSettings\/FilterViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9949,
+      "offset": 8241,
       "length": 4,
       "value": "true"
     },
@@ -9544,511 +9502,532 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 596,
+      "offset": 595,
       "length": 4,
       "value": "72.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 651,
+      "offset": 650,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 716,
+      "offset": 715,
       "length": 23,
       "value": "\"LibraryViewController\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1778,
+      "offset": 2005,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1818,
+      "offset": 2045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1887,
+      "offset": 2114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2092,
+      "offset": 2319,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2193,
+      "offset": 2420,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2204,
+      "offset": 2431,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2217,
+      "offset": 2444,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2229,
+      "offset": 2456,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2282,
+      "offset": 2509,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2293,
+      "offset": 2520,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2306,
+      "offset": 2533,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2318,
+      "offset": 2545,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2676,
+      "offset": 2903,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2767,
+      "offset": 2994,
       "length": 5,
       "value": "192.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2829,
+      "offset": 3056,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3380,
+      "offset": 3607,
       "length": 8,
       "value": "\"Select\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3509,
+      "offset": 3736,
       "length": 17,
       "value": "\"images\/icFilter\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3790,
+      "offset": 4017,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4038,
+      "offset": 4265,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4465,
+      "offset": 4508,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4559,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4605,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4877,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5024,
+      "offset": 5812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5355,
+      "offset": 6143,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5366,
+      "offset": 6154,
       "length": 8,
       "value": "\"Select\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5462,
+      "offset": 6250,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5537,
+      "offset": 6325,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5743,
+      "offset": 6531,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6063,
+      "offset": 6851,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6196,
+      "offset": 6984,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6398,
+      "offset": 7186,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6601,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6660,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6837,
+      "offset": 7490,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6855,
+      "offset": 7508,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7053,
+      "offset": 7706,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7068,
+      "offset": 7721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7193,
+      "offset": 7846,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7385,
+      "offset": 8038,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7454,
+      "offset": 8107,
       "length": 8,
       "value": "\"Remove\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7473,
+      "offset": 8126,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7529,
+      "offset": 8182,
       "length": 60,
       "value": "\"Are you sure you want to delete \""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7578,
+      "offset": 8231,
       "length": 5,
       "value": "\" model(s)?\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7724,
+      "offset": 8377,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7739,
+      "offset": 8392,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7922,
+      "offset": 8575,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7941,
+      "offset": 8594,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8112,
+      "offset": 8765,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8374,
+      "offset": 9027,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8863,
+      "offset": 9516,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9699,
+      "offset": 10352,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9756,
+      "offset": 10409,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9879,
+      "offset": 10532,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9934,
+      "offset": 10587,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9944,
+      "offset": 10597,
       "length": 14,
       "value": "\"Select Items\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9972,
+      "offset": 10625,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9982,
+      "offset": 10635,
       "length": 18,
       "value": "\"1 Model Selected\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10025,
+      "offset": 10678,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10042,
+      "offset": 10695,
       "length": 6,
       "value": "\" Models Selected\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10329,
+      "offset": 10982,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10421,
+      "offset": 11074,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10485,
+      "offset": 11138,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10568,
+      "offset": 11221,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10668,
+      "offset": 11321,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10958,
+      "offset": 11611,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11049,
+      "offset": 11702,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 11112,
+      "offset": 11765,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11195,
+      "offset": 11848,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11294,
+      "offset": 11947,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12635,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12690,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11681,
+      "offset": 12968,
       "length": 23,
       "value": "\"images\/icFilterActive\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11767,
+      "offset": 13054,
       "length": 17,
       "value": "\"images\/icFilter\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11871,
+      "offset": 13158,
       "length": 5,
       "value": "false"
     },
@@ -10321,147 +10300,147 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "Array",
-      "offset": 1028,
+      "offset": 1180,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "Array",
-      "offset": 1080,
+      "offset": 1232,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1112,
+      "offset": 1588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1813,
+      "offset": 2289,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 2674,
+      "offset": 2945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 2808,
+      "offset": 3079,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 2951,
+      "offset": 3222,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 2964,
+      "offset": 3235,
       "length": 3,
       "value": "\" has generated error \""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3014,
+      "offset": 3285,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3620,
+      "offset": 4086,
       "length": 15,
       "value": "\"Asset Library\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 4594,
+      "offset": 4969,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5283,
+      "offset": 5658,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5296,
+      "offset": 5671,
       "length": 3,
       "value": "\" has generated error \""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5346,
+      "offset": 5721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5609,
+      "offset": 5984,
       "length": 18,
       "value": "\"images\/icNoImage\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 5867,
+      "offset": 6242,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 5987,
+      "offset": 6362,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 7926,
+      "offset": 8301,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 8102,
+      "offset": 8477,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 9372,
+      "offset": 9747,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Moduls\/Library\/LibraryCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10115,
+      "offset": 10490,
       "length": 4,
       "value": "true"
     },
@@ -11819,175 +11798,189 @@
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 564,
+      "offset": 615,
+      "length": 25,
+      "value": "\"Library\/tabButtonActive\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
+      "kind": "StringLiteral",
+      "offset": 698,
+      "length": 27,
+      "value": "\"Library\/tabButtonNoactive\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
+      "kind": "StringLiteral",
+      "offset": 808,
       "length": 17,
       "value": "\"colors\/darkBlue\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 630,
+      "offset": 874,
       "length": 17,
       "value": "\"colors\/cellText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 698,
+      "offset": 942,
       "length": 19,
       "value": "\"colors\/background\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 1014,
       "length": 21,
       "value": "\"colors\/markPositive\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 844,
+      "offset": 1088,
       "length": 21,
       "value": "\"colors\/markNegative\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 914,
+      "offset": 1158,
       "length": 23,
       "value": "\"colors\/buttonPositive\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 986,
+      "offset": 1230,
       "length": 23,
       "value": "\"colors\/buttonNegative\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1056,
+      "offset": 1300,
       "length": 21,
       "value": "\"colors\/selectedPart\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1127,
+      "offset": 1371,
       "length": 18,
       "value": "\"colors\/cellTitle\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1198,
+      "offset": 1442,
       "length": 21,
       "value": "\"colors\/cellGrayText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1268,
+      "offset": 1512,
       "length": 17,
       "value": "\"colors\/darkGray\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1337,
+      "offset": 1581,
       "length": 20,
       "value": "\"colors\/warningText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1414,
+      "offset": 1658,
       "length": 25,
       "value": "\"colors\/opaqueBackground\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1494,
+      "offset": 1738,
       "length": 23,
       "value": "\"colors\/filterGrayText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1576,
+      "offset": 1820,
       "length": 27,
       "value": "\"colors\/filterActiveButton\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1656,
+      "offset": 1900,
       "length": 21,
       "value": "\"colors\/filterShadow\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1762,
+      "offset": 2006,
       "length": 31,
       "value": "\"ARFurniture\/controlBackground\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1844,
+      "offset": 2088,
       "length": 24,
       "value": "\"ARFurniture\/activeText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 1921,
+      "offset": 2165,
       "length": 26,
       "value": "\"ARFurniture\/noactiveText\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2026,
+      "offset": 2270,
       "length": 30,
       "value": "\"VirtualSpace\/pickerItemTitle\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2109,
+      "offset": 2353,
       "length": 31,
       "value": "\"VirtualSpace\/pickerItemBottom\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2197,
+      "offset": 2441,
       "length": 31,
       "value": "\"VirtualSpace\/headerBackground\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2291,
+      "offset": 2535,
       "length": 37,
       "value": "\"VirtualSpace\/headerBackgroundOpaque\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2378,
+      "offset": 2622,
       "length": 23,
       "value": "\"VirtualSpace\/separate\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/iOSFurnitureFramework\/CSConnectFramework\/Extension\/UIColor+Presents.swift",
       "kind": "StringLiteral",
-      "offset": 2458,
+      "offset": 2702,
       "length": 31,
       "value": "\"VirtualSpace\/pickerBackground\""
     },
@@ -13184,161 +13177,175 @@
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4771,
+      "offset": 4671,
+      "length": 25,
+      "value": "\"Library\/tabButtonActive\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4856,
+      "length": 27,
+      "value": "\"Library\/tabButtonNoactive\""
+    },
+    {
+      "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5139,
       "length": 31,
       "value": "\"VirtualSpace\/headerBackground\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4977,
+      "offset": 5345,
       "length": 37,
       "value": "\"VirtualSpace\/headerBackgroundOpaque\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5177,
+      "offset": 5545,
       "length": 31,
       "value": "\"VirtualSpace\/pickerBackground\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5371,
+      "offset": 5739,
       "length": 31,
       "value": "\"VirtualSpace\/pickerItemBottom\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5563,
+      "offset": 5931,
       "length": 30,
       "value": "\"VirtualSpace\/pickerItemTitle\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5740,
+      "offset": 6108,
       "length": 23,
       "value": "\"VirtualSpace\/separate\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6114,
+      "offset": 6482,
       "length": 26,
       "value": "\"VirtualSpace\/chevronDown\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6295,
+      "offset": 6663,
       "length": 27,
       "value": "\"VirtualSpace\/chevronRight\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6471,
+      "offset": 6839,
       "length": 24,
       "value": "\"VirtualSpace\/chevronUp\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6648,
+      "offset": 7016,
       "length": 26,
       "value": "\"VirtualSpace\/compactMode\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6817,
+      "offset": 7185,
       "length": 21,
       "value": "\"VirtualSpace\/folder\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6985,
+      "offset": 7353,
       "length": 23,
       "value": "\"VirtualSpace\/lineMode\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7163,
+      "offset": 7531,
       "length": 27,
       "value": "\"VirtualSpace\/startedAsset\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7429,
+      "offset": 7797,
       "length": 23,
       "value": "\"ARFurniture\/icAddItem\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7604,
+      "offset": 7972,
       "length": 25,
       "value": "\"ARFurniture\/icCustomize\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7775,
+      "offset": 8143,
       "length": 22,
       "value": "\"ARFurniture\/icDelete\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8023,
+      "offset": 8391,
       "length": 19,
       "value": "\"images\/icCalendar\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8183,
+      "offset": 8551,
       "length": 17,
       "value": "\"images\/icFilter\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8353,
+      "offset": 8721,
       "length": 23,
       "value": "\"images\/icFilterActive\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8513,
+      "offset": 8881,
       "length": 15,
       "value": "\"images\/icLogo\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8675,
+      "offset": 9043,
       "length": 20,
       "value": "\"images\/icLogoLarge\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8833,
+      "offset": 9201,
       "length": 18,
       "value": "\"images\/icNoImage\""
     },
     {
       "filePath": "\/Users\/vasiliarlou\/Library\/Developer\/Xcode\/DerivedData\/CSConnectFramework-afyxhrjdhlmvpvbfhtdrfzslygvf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CSConnectFramework\/IntermediateBuildFilesPath\/CSConnectFramework.build\/Release-iphoneos\/CSConnectFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9078,
+      "offset": 9446,
       "length": 19,
       "value": "\"Library\/icNoItems\""
     }

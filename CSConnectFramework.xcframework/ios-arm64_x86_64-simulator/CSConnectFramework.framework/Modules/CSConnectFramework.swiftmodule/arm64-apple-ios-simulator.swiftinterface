@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CSConnectFramework
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name CSConnectFramework
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import ARKit
 @_exported import CSConnectFramework
 import Combine
@@ -19,30 +19,35 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os
-@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class Media {
+@_hasMissingDesignatedInitializers final public class Media {
   final public let url: Swift.String
-  public var data: Foundation.Data?
+  final public var data: Foundation.Data?
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ImageProvider {
   public static func image(named: Swift.String) -> UIKit.UIImage?
   @objc deinit
 }
-public enum Scheme {
-  case prod
-  case debug
-  public static func == (a: CSConnectFramework.Scheme, b: CSConnectFramework.Scheme) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
+@objc public protocol SDKOutput {
+  @objc func requireConsultation()
+  @objc func showChatWidget()
+  @objc func hideChatWidget()
 }
 @_hasMissingDesignatedInitializers public class FurnitureSDK {
+  public enum Scheme {
+    case prod
+    case tst
+    case dev
+    public static func == (a: CSConnectFramework.FurnitureSDK.Scheme, b: CSConnectFramework.FurnitureSDK.Scheme) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
   @objc deinit
+}
+extension Foundation.NSAttributedString {
+  public static func makeWith(color: UIKit.UIColor = UIColor.darkText, weight: UIKit.UIFont.Weight = .regular, ofSize: CoreFoundation.CGFloat = 12.0, _ text: Swift.String) -> Foundation.NSMutableAttributedString
 }
 extension CSConnectFramework.CoreFurniture {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreFurniture>
@@ -51,6 +56,10 @@ extension CSConnectFramework.CoreFurniture {
     @objc set
   }
   @objc @NSManaged dynamic public var companyName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var createdDate: Foundation.Date? {
     @objc get
     @objc set
   }
@@ -78,10 +87,6 @@ extension CSConnectFramework.CoreFurniture {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var sessionId: Swift.String? {
-    @objc get
-    @objc set
-  }
   @objc @NSManaged dynamic public var subcategory: Swift.String? {
     @objc get
     @objc set
@@ -90,28 +95,38 @@ extension CSConnectFramework.CoreFurniture {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var createdDate: Foundation.Date? {
-    @objc get
-    @objc set
-  }
 }
 extension CSConnectFramework.CoreFurniture : Swift.Identifiable {
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias ID = Swift.String?
 }
 public typealias Company = Swift.String
 public typealias Category = Swift.String
 public typealias Subcategory = Swift.String
-public typealias ClientKey = Swift.String
+@_inheritsConvenienceInitializers @objc(CoreFurniture) public class CoreFurniture : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(CoreUser) public class CoreUser : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+public typealias CompanyKey = Swift.String
 public typealias AccessKey = Swift.String
+public typealias AccessKeyHookCallBack = (CSConnectFramework.AccessKey) -> Swift.Void
+public protocol KeyHook : AnyObject {
+  func fetchAccessKey(hook: @escaping CSConnectFramework.AccessKeyHookCallBack)
+}
 public enum Authorization {
-  case companyApiKey(key: CSConnectFramework.ClientKey)
-  case userAccessKey(key: CSConnectFramework.AccessKey)
+  case companyApiKey(key: CSConnectFramework.CompanyKey)
+  case hookAccessKey(hook: any CSConnectFramework.KeyHook)
   case configFile
 }
 extension UIKit.UINavigationController {
-  @_Concurrency.MainActor(unsafe) public func openVirtualSpaceViewController(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.Scheme = .debug)
-  @_Concurrency.MainActor(unsafe) public func openNewFurnitureViewController(_ furnitureSessionId: CSConnectFramework.SessionId, authorization: CSConnectFramework.Authorization = .configFile, forceLoad: Swift.Bool = true, scheme: CSConnectFramework.Scheme = .debug)
-  @_Concurrency.MainActor(unsafe) public func openAssetLibrary(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.Scheme = .debug)
+  @_Concurrency.MainActor @preconcurrency public func showNotificationForNewFurniture(_ furnitureId: CSConnectFramework.FurnitureId, authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.FurnitureSDK.Scheme = .dev, reviewCallBack: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor @preconcurrency public func openVirtualSpaceViewController(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.FurnitureSDK.Scheme = .dev)
+  @_Concurrency.MainActor @preconcurrency public func openNewFurnitureViewController(_ furnitureId: CSConnectFramework.FurnitureId, authorization: CSConnectFramework.Authorization = .configFile, forceLoad: Swift.Bool = true, scheme: CSConnectFramework.FurnitureSDK.Scheme = .dev, output: any CSConnectFramework.SDKOutput)
+  @_Concurrency.MainActor @preconcurrency public func openAssetLibrary(authorization: CSConnectFramework.Authorization = .configFile, scheme: CSConnectFramework.FurnitureSDK.Scheme = .dev, output: any CSConnectFramework.SDKOutput)
 }
 extension Swift.Array where Element : Swift.Hashable {
   public func uniqued() -> [Element]
@@ -122,7 +137,17 @@ extension Swift.Array where Element : Swift.Hashable {
   @objc deinit
 }
 public typealias FurnitureId = Swift.String
-public typealias SessionId = Swift.String
+extension CSConnectFramework.CoreUser {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreUser>
+  @objc @NSManaged dynamic public var name: Swift.String? {
+    @objc get
+    @objc set
+  }
+}
+extension CSConnectFramework.CoreUser : Swift.Identifiable {
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  public typealias ID = Swift.ObjectIdentifier
+}
 extension CSConnectFramework.CoreMedia {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<CSConnectFramework.CoreMedia>
   @objc @NSManaged dynamic public var data: Foundation.Data? {
@@ -135,7 +160,8 @@ extension CSConnectFramework.CoreMedia {
   }
 }
 extension CSConnectFramework.CoreMedia : Swift.Identifiable {
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias ID = Swift.ObjectIdentifier
 }
-extension CSConnectFramework.Scheme : Swift.Equatable {}
-extension CSConnectFramework.Scheme : Swift.Hashable {}
+extension CSConnectFramework.FurnitureSDK.Scheme : Swift.Equatable {}
+extension CSConnectFramework.FurnitureSDK.Scheme : Swift.Hashable {}
